@@ -15,7 +15,7 @@ int main(void)
 	{
 		putchar(lower_case);
 	}
-	
+
 	/* Prints upper case alphabets*/
 	for (upper_case = 'A'; upper_case <= 'Z'; upper_case++)
 	{
