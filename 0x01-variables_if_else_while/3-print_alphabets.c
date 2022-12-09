@@ -4,6 +4,7 @@
 *
 * Return: Alway 0 (success)
 */
+int main (void)
 
 {
 	char lower_case; /*statement declaration*/
