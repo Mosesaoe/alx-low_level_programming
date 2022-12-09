@@ -4,7 +4,7 @@
 *
 * Return: Always 0 (Success)
 */
-int main(0)
+int main(void)
 {
 	int i; /* Statement Declaaration*/
 	/*prints all single digit numbers of base 10 starting from 0*/
