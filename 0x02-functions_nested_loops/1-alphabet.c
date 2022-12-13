@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
 * print _alphabet - Entry point
 * return: Always(0)
