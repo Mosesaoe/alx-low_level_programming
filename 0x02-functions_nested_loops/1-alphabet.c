@@ -6,7 +6,8 @@
 *
 */
 
-void print_alphabet(void) /* print lower case alphabets*/
+/* print lower case alphabets*/
+void print_alphabet(void)
 {
 	char c = 'a';
 
