@@ -7,6 +7,7 @@
 void print_alphabet(void) /* print lower case alphabets*/
 {
 	char c = 'a';
+
 	while (c <= 'z')
 	{
 		_putchar(c);
