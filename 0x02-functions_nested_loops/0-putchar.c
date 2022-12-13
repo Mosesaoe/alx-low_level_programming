@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 
 /**
 * main - entry point
@@ -19,4 +19,3 @@ int main(void)
 
 	return (0);
 }
-
