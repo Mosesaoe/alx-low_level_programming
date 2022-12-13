@@ -11,6 +11,7 @@ void print_alphabet(void) /* print lower case alphabets*/
 	for (n = 'a'; n <= 'z'; n++)
 	{
 		_putchar(n);
+		return (0);
 	}
 
 	_putchar('\n');
