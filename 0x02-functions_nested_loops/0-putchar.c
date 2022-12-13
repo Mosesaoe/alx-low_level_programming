@@ -6,8 +6,12 @@
 *
 * Return: on success 0.
 */
-int _putchar (char c)
+int main()
 {
-	return (write(0, &c, 1));
+	int _putchar (char c)
+	{
+		return (write(0, &c, 1));
+	}
+	return (0);
 }
 
