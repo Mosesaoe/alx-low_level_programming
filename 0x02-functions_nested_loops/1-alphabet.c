@@ -1,12 +1,10 @@
 #include "main.h"
 
 /**
-* print _alphabet - Entry point
-* Return: 0
-*
-*/
+ * print_alphabet - Entry point
+ * Return:0
+ */
 
-/* print lower case alphabets*/
 void print_alphabet(void)
 {
 	char c = 'a';
@@ -15,7 +13,8 @@ void print_alphabet(void)
 	{
 		_putchar(c);
 		c++;
-	}
 
+	}
 	_putchar('\n');
+
 }
