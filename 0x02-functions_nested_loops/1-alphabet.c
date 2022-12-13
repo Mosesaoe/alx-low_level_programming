@@ -15,5 +15,4 @@ void print_alphabet(void) /* print lower case alphabets*/
 	}
 
 	_putchar('\n');
-	return (0);
 }
