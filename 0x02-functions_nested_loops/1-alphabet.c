@@ -6,12 +6,11 @@
 */
 void print_alphabet(void) /* print lower case alphabets*/
 {
-	int n;
-
-	for (n = 'a'; n <= 'z'; n++)
+	char c = 'a';
+	while (c <= 'z')
 	{
-		_putchar(n);
-	
+		_putchar(c);
+		c++;
 	}
 
 	_putchar('\n');
